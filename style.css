@@ -272,11 +272,11 @@
  }
  .heading{
   color: #ae9a64;
-  margin-left: 350px;
+  margin-left: 300px;
   font-size: 50px;
   font-family:"fonts/Bungee-Regular.ttf";
   letter-spacing: 7px;
-  font-weight: bolder;
+  font-weight: lighter;
   line-height: 5;
  }
  .childdiv17{
@@ -294,13 +294,20 @@
   text-decoration: underline double #ae9a64;
  }
   .head4{
-    margin-left: 200px;
+    margin-left: 170px;
+    margin-right: 270px;
+    text-align: center;
   }
+  .head5{
+      margin-left: 170px;
+    margin-right: 270px;
+  }
+ 
  .childdiv17{
   width: 80%;
   height: 50px;
   place-items: center;
-   gap: 250px;
+   /* gap: 200px; */
     grid-area: 5 / 1 / 6 / 2;
     justify-self: start;    
     align-self: start;
