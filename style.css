@@ -533,11 +533,10 @@
    /* Section 5 End  */
   /* Section 6 Start  */
   #div9{
-    background-image: url(images/fire.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 700px;
+    background-color: rgba(14, 13, 13, 0.7);
+    height: 400px;
     width: 100%;
+    margin-top: 150px;
   }
   .childdiv23{
     display: flex;
