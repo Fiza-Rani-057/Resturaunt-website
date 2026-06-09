@@ -307,7 +307,6 @@
   width: 80%;
   height: 50px;
   place-items: center;
-   /* gap: 200px; */
     grid-area: 5 / 1 / 6 / 2;
     justify-self: start;    
     align-self: start;
