@@ -532,4 +532,11 @@
    }
    /* Section 5 End  */
   /* Section 6 Start  */
+  #div9{
+    background-image: url(images/fire.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+  }
   
