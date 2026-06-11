@@ -534,20 +534,16 @@
   /* Section 6 Start  */
   #div9{
     background-color: rgba(14, 13, 13, 0.7);
-    height: 400px;
+    height: 500px;
     width: 100%;
     margin-top: 150px;
     background-size: cover;
   }
   .childdiv23{
     display: flex;
-    /* height: 70px;
-    width: 100px; */
   } 
   .childdiv24{
     display: flex;
-     /* height: 70px;
-    width: 100px; */
   }
   @font-face {
     font-family: "fonts/Boldonse-Regular.ttf";
@@ -563,36 +559,37 @@
      font-family: "fonts/Boldonse-Regular.ttf";
   }
   .img1{
-     height: 150px;
-    width: 200px;
+     height: 160px;
+    width: 300px;
   }
   .img2{
-    height: 150px;
-    width: 200px;
+    height: 160px;
+    width: 300px;
   }
   .img3{
-     height: 150px;
-    width: 200px;
+     height: 160px;
+    width: 300px;
   }
   .img4{
-    height: 150px;
-    width: 200px;
+    height: 160px;
+    width: 300px;
   }
   .img5{
-     height: 150px;
-    width: 200px;
+     height: 160px;
+    width: 300px;
   }
   .img6{
-     height: 150px;
-    width: 200px;
+     height: 160px;
+    width: 300px;
   }
   .img7{
-     height: 150px;
-    width: 200px;
+     height: 160px;
+    width: 300px;
   }
   .img8{
-   height: 150px;
-    width: 200px;
+   height: 160px;
+    width: 300px;
+
   }
  
  
