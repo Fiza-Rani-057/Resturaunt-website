@@ -552,9 +552,10 @@
   .head13{
     text-align: center;
     color: #ae9a64;
-    font-size: 40px;
-    letter-spacing: 2px;
-    padding-top: 20px;
+    font-size: 30px;
+    letter-spacing: 4px;
+    padding-top: 15px;
+    padding-bottom: 20px;
     font-weight: lighter;
      font-family: "fonts/Boldonse-Regular.ttf";
   }
@@ -593,3 +594,4 @@
   /* Section 6 end  */
  /* section 7 start  */
  
+
