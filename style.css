@@ -541,13 +541,13 @@
   }
   .childdiv23{
     display: flex;
-    height: 70px;
-    width: 100px;
-  }
+    /* height: 70px;
+    width: 100px; */
+  } 
   .childdiv24{
     display: flex;
-     height: 70px;
-    width: 100px;
+     /* height: 70px;
+    width: 100px; */
   }
   @font-face {
     font-family: "fonts/Boldonse-Regular.ttf";
@@ -561,6 +561,38 @@
     padding-top: 20px;
     font-weight: lighter;
      font-family: "fonts/Boldonse-Regular.ttf";
+  }
+  .img1{
+     height: 150px;
+    width: 200px;
+  }
+  .img2{
+    height: 150px;
+    width: 200px;
+  }
+  .img3{
+     height: 150px;
+    width: 200px;
+  }
+  .img4{
+    height: 150px;
+    width: 200px;
+  }
+  .img5{
+     height: 150px;
+    width: 200px;
+  }
+  .img6{
+     height: 150px;
+    width: 200px;
+  }
+  .img7{
+     height: 150px;
+    width: 200px;
+  }
+  .img8{
+   height: 150px;
+    width: 200px;
   }
  
  
