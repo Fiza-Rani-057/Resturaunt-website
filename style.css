@@ -593,5 +593,12 @@
   }
   /* Section 6 end  */
  /* section 7 start  */
- 
+ #div10{
+  background-image: url(images/bg\ img.jpeg);
+  background-size: cover;
+  background-repeat: repeat;
+    height: 500px;
+ width: 100%;
+   
+ }
 
