@@ -597,7 +597,7 @@
   background-image: url(images/bgimg3.jpg);
   background-size: cover;
   background-repeat: repeat;
-    height: 400px;
+    height: 500px;
      width: 100%;
  }
  .childdiv24{
@@ -614,6 +614,7 @@
   letter-spacing: 3px;
    padding-top: 100px;
    padding-bottom: 40px;
+   padding-left: 400px;
  }
  .eml{
  margin-left: 300px;
@@ -621,9 +622,12 @@
  }
  #email{
  margin-left: 300px;
- border-top: none;
+ border: 2px solid #ae9a64;
+  border-top: none;
  border-left: none;
  border-right: none;
- border: 2px solid #ae9a64;
- margin-top: 50px;
+ margin-top: 40px;
+ background-color: rgb(13, 13, 13 ,0.1);
+ padding-left: 200px;
+ padding-right: 200px;
  }
