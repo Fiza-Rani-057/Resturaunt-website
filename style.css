@@ -608,8 +608,17 @@
   font-weight: bolder;
   letter-spacing: 3px;
    padding-top: 100px;
+   padding-bottom: 40px;
  }
  .eml{
-  
+ margin-left: 300px;
+ font-size: 16px;
  }
-
+ #email{
+ margin-left: 300px;
+ border-top: none;
+ border-left: none;
+ border-right: none;
+ border: 2px solid #ae9a64;
+ margin-top: 50px;
+ }
