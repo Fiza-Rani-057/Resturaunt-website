@@ -219,7 +219,7 @@
  .head3{
   text-align: center;
   color: aliceblue;
-  margin-left: 400px;
+  margin-left: 370px;
   font-size: 40px;
   line-height: 0;
   word-spacing: 2px;
@@ -238,7 +238,7 @@
   color: aliceblue;
   font-size: 20px;
    display: block;
-   margin-left: 550px;
+   margin-left: 500px;
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    border: 1px solid #ae9a64;
    border-radius: 2px;
@@ -807,14 +807,14 @@
   color: #ae9a64;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 20px;
-  margin-left: 350px;
+  margin-left: 370px;
   margin-right: 300px;
  }
  #paragraph2{
   color: #ae9a64;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 20px;
-  margin-left: 300px;
+  margin-left: 330px;
   margin-right: 300px;
  }
 #map{
@@ -857,4 +857,4 @@
  #Wix:hover{
 text-decoration: none;
  }
-
+ /* section 8 end  */
