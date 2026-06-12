@@ -835,8 +835,26 @@
   margin-left: 530px;
   color: #ae9a64;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
+  letter-spacing: 3px;
+
  }
- 
+ .childdiv30{
+  display: flex;
+ }
+ #footer{
+  color: #ae9a64;
+  margin-left: 400px;
+  margin-top: 40px;
+  font-size: 15px;
+ }
+ #Wix{
+  color: #ae9a64;
+  padding-top: 40px;
+  padding-left: 5px;
+ }
+ #Wix:hover{
+text-decoration: none;
+ }
 
