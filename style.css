@@ -631,6 +631,14 @@
  padding-left: 200px;
  padding-right: 200px;
  }
+ #email:focus{
+  outline: none;
+    border: 2px solid #ae9a64;
+    color: azure;
+     border-top: none;
+   border-left: none;
+   border-right: none;
+ }
  #check{
   margin-left: 300px;
   margin-top: 50px;
@@ -697,12 +705,24 @@
   background-color: rgb(13 ,13, 13, 0.5);
   padding-right: 40px;
   padding-left: 40px;
+    margin-bottom: 30px;
+ }
+ #fn:focus{
+  outline: none;
+    border: 2px solid #ae9a64;
+    color: azure;
  }
  #ln{
    border: 2px solid #ae9a64;
   background-color: rgb(13 ,13, 13, 0.5);
   padding-right: 40px;
   padding-left: 40px;
+  margin-bottom: 30px;
+ }
+ #ln:focus{
+    outline: none;
+    border: 2px solid #ae9a64;
+    color: azure;
  }
  #lastname{
    font-size: 15px;
@@ -717,6 +737,11 @@
  font-size: 15px;
   margin-left: 100px;
  }
+ #ph:focus{
+  outline: none;
+    border: 2px solid #ae9a64;
+    color: azure;
+ }
  #em{
   margin-left: 300px;
   margin-right: 10px;
@@ -726,6 +751,11 @@
   padding-right: 40px;
   padding-left: 40px;
   margin-bottom: 50px;
+ }
+ #em{
+   outline: none;
+    border: 2px solid #ae9a64;
+    color: azure;
  }
  #ph{
  border: 2px solid #ae9a64;
