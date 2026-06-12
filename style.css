@@ -154,10 +154,10 @@
    background-color: #ae9a64;
  }
 
- #message {
+ #mssg {
    color: aliceblue;
  }
- #message:hover{
+ #mssg:hover{
    cursor: pointer;
  }
  .nav {
@@ -668,10 +668,10 @@
  /* Section 7 end  */
 /* section 8 start  */
  #div11{
-    height: 700px;
+    height: 2000px;
      width: 100%;
      background-color: rgb(13 ,13, 13, 0.9);
-     background-size: cover;
+   background-size: cover;
  }
  #head15{
   text-align: center;
@@ -803,5 +803,23 @@
  background-color: rgb(13 ,13, 13, 0.3);
  border: none;
  }
+ #paragrap1{
+  color: #ae9a64;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 20px;
+  margin-left: 350px;
+  margin-right: 300px;
+ }
+ #paragraph2{
+  color: #ae9a64;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+ }
+#map{
+ margin-left: 300px;
+ height: 300px;
+}
  
 
