@@ -636,6 +636,7 @@
   margin-top: 50px;
   appearance: none;
   width: 20px;
+  height: 10px;
     border: 2px solid #ae9a64;
     background-color: rgb(13, 13, 13 ,0.1);
  }
@@ -682,4 +683,7 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 18px;
  }
- 
+ #firstname{
+  margin-left: 350px;
+  margin-right: 100px;
+ }
