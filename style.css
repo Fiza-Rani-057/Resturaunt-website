@@ -659,5 +659,27 @@
  /* Section 7 end  */
 /* section 8 start  */
  #div11{
+    height: 500px;
+     width: 100%;
+     background-color: rgb(13 ,13, 13, 0.9);
+     background-size: cover;
+ }
+ #head15{
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  padding-left: 400px;
+  padding-right: 400px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  letter-spacing: 3px;
 
  }
+ #paragraph{
+  color: #ae9a64;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+ }
+ 
