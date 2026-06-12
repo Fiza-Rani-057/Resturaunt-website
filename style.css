@@ -784,5 +784,24 @@
     border: 4px solid #ae9a64;
     color: azure;
 }
+ #submit{
+  margin-left: 330px;
+  margin-top: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 3px;
+  color: white;
+  background-color: #ae9a64;
+  border: 2px solid black;
+  font-size: 15px;
+  font-weight: bold;
+ }
+ #submit:hover{
+ background-color: rgb(13 ,13, 13, 0.3);
+ border: none;
+ }
  
 
